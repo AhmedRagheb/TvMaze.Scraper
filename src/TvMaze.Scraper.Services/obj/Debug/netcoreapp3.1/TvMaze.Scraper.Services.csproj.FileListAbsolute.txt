@@ -1,8 +1,0 @@
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\bin\Debug\netcoreapp3.1\TvMaze.Scraper.Services.deps.json
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\bin\Debug\netcoreapp3.1\TvMaze.Scraper.Services.dll
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\bin\Debug\netcoreapp3.1\TvMaze.Scraper.Services.pdb
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\obj\Debug\netcoreapp3.1\TvMaze.Scraper.Services.csprojAssemblyReference.cache
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\obj\Debug\netcoreapp3.1\TvMaze.Scraper.Services.AssemblyInfoInputs.cache
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\obj\Debug\netcoreapp3.1\TvMaze.Scraper.Services.AssemblyInfo.cs
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\obj\Debug\netcoreapp3.1\TvMaze.Scraper.Services.dll
-D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services\obj\Debug\netcoreapp3.1\TvMaze.Scraper.Services.pdb
