@@ -16,8 +16,4 @@
     <ProjectReference Include="..\TvShows.Scraper.Services.Abstractions\TvShows.Scraper.Services.Abstractions.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Scraper\Models\" />
-  </ItemGroup>
-
 </Project>

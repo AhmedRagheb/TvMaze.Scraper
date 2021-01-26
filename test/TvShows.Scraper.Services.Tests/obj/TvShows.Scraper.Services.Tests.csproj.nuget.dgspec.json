@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\assignments\\RTL\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj": {}
+    "D:\\assignments\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj": {}
   },
   "projects": {
-    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
+    "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
+        "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
         "projectName": "TvShows.Scraper.DataAccess",
-        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
+        "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
         "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\obj\\",
+        "outputPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+    "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj",
+        "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj",
         "projectName": "TvShows.Scraper.Models",
-        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj",
+        "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj",
         "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\obj\\",
+        "outputPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj": {
+    "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj",
+        "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj",
         "projectName": "TvShows.Scraper.Services",
-        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj",
+        "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj",
         "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\obj\\",
+        "outputPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -149,14 +149,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj"
               },
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
               },
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
+    "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
+        "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
         "projectName": "TvShows.Scraper.Services.Abstractions",
-        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
+        "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
         "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\obj\\",
+        "outputPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -229,8 +229,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
               }
             }
           }
@@ -262,14 +262,14 @@
         }
       }
     },
-    "D:\\assignments\\RTL\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj": {
+    "D:\\assignments\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj",
+        "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj",
         "projectName": "TvShows.Scraper.Services.Tests",
-        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj",
+        "projectPath": "D:\\assignments\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\TvShows.Scraper.Services.Tests.csproj",
         "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\obj\\",
+        "outputPath": "D:\\assignments\\TvMaze.Scraper\\test\\TvShows.Scraper.Services.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -289,17 +289,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj"
               },
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
               },
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj"
               },
-              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
-                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj"
+              "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
+                "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj"
               }
             }
           }

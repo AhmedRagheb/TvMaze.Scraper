@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
+      "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
       "projectName": "TvShows.Scraper.Services.Abstractions",
-      "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
+      "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
       "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-      "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\obj\\",
+      "outputPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
-              "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
+            "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+              "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
             }
           }
         }

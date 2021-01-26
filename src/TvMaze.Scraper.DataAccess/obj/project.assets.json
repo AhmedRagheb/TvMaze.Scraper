@@ -644,11 +644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
+      "projectUniqueName": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
       "projectName": "TvShows.Scraper.DataAccess",
-      "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
+      "projectPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
       "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
-      "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\obj\\",
+      "outputPath": "D:\\assignments\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
