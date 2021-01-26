@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
+        "projectName": "TvShows.Scraper.DataAccess",
+        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
+        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://snappet.pkgs.visualstudio.com/_packaging/Snappet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj",
+        "projectName": "TvShows.Scraper.Models",
+        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj",
+        "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
+        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://snappet.pkgs.visualstudio.com/_packaging/Snappet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj",
+        "projectName": "TvShows.Scraper.Services",
+        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\TvShows.Scraper.Services.csproj",
+        "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
+        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://snappet.pkgs.visualstudio.com/_packaging/Snappet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj": {
+                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.DataAccess\\TvShows.Scraper.DataAccess.csproj"
+              },
+              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
+              },
+              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
+                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
+        "projectName": "TvShows.Scraper.Services.Abstractions",
+        "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\TvShows.Scraper.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\raghe\\.nuget\\packages\\",
+        "outputPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvShows.Scraper.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://snappet.pkgs.visualstudio.com/_packaging/Snappet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj": {
+                "projectPath": "D:\\assignments\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Models\\TvShows.Scraper.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

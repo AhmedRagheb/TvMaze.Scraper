@@ -1,0 +1,9 @@
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\bin\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.deps.json
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\bin\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.dll
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\bin\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.pdb
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\obj\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.csprojAssemblyReference.cache
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\obj\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.AssemblyInfoInputs.cache
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\obj\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.AssemblyInfo.cs
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\obj\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.csproj.CoreCompileInputs.cache
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\obj\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.dll
+D:\assignments\RTL\TvMaze.Scraper\TvMaze.Scraper.Services.Caching\obj\Debug\netcoreapp3.1\TvShows.Scraper.Services.Caching.pdb

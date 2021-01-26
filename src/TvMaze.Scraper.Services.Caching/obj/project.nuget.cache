@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yl+Q6YyL4EsorsFmz+zYekfHWRyKCiWdFL5vSKIeHGFvj2Am9qwWhWR8TTIOQqxCUUvueQx2bbzECKzBGHdxxw==",
+  "success": true,
+  "projectFilePath": "D:\\assignments\\RTL\\TvMaze.Scraper\\TvMaze.Scraper.Services.Caching\\TvShows.Scraper.Services.Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raghe\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.11\\microsoft.extensions.caching.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\raghe\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.11\\microsoft.extensions.caching.memory.3.1.11.nupkg.sha512",
+    "C:\\Users\\raghe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\raghe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.11\\microsoft.extensions.logging.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\raghe\\.nuget\\packages\\microsoft.extensions.options\\3.1.11\\microsoft.extensions.options.3.1.11.nupkg.sha512",
+    "C:\\Users\\raghe\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
